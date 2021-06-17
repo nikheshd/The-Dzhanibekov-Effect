@@ -1,2 +1,2 @@
 # The-Dzhanibekov-Effect
-or Intermediate axis effect
+or the Intermediate axis effect
