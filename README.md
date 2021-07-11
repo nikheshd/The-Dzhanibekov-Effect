@@ -1,6 +1,6 @@
 # The-Dzhanibekov-Effect
 or the Intermediate axis effect<br><br>
-This repo contains all the files of 'The-Dzhanibekov-Effect' project done by **Dwara Nikhesh Babu**, **Aakarshika Singh**, Y19, UG, IIT Kanpur under the guidance of **Prof. Ishan Sharma**, Department of Mechanical Engineering, IIT Kanpur.<br>
+This repo contains all the files of 'The-Dzhanibekov-Effect' project done by **Dwara Nikhesh Babu**, **Aakarshika Singh**, Y19, Mech UG, IIT Kanpur under the guidance of **Prof. Ishan Sharma**, Department of Mechanical Engineering, IIT Kanpur.<br>
 The project report is here - https://github.com/nikheshd/The-Dzhanibekov-Effect/blob/main/The_Dzhanibekov_Effect.pdf<br>
 de_numerical files are the only files not created by us (obtained from https://www.berkeley.edu).<br>
 To view an animation of The-Dzhanibekov-Effect, download this file - https://github.com/nikheshd/The-Dzhanibekov-Effect/blob/main/t-handle4.MP4 and view.
