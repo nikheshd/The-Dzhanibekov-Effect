@@ -17,4 +17,4 @@ This will make use of analyticalsoln.mat  and numericalsoln.mat files.<br>
 Therefore, steps 1 and 2 should be done first with same input before running validation.mlx .<br>
 4. To obtain the animation, run de_analytical_2_1.mlx with desired input and then de_Model_1.mlx to create t-handle.avi which can be played in any videoplayer.<br>
 de_Model_1.mlx will make use of BFCS_E1E2E3.mat (created by de_analytical_2_1.mlx) to create t-handle.avi .<br>
-This takes a while because it creates 20fps animation bydefault.<br>
+This takes a while because it creates 20fps animation bydefault. This can be changed by changing the value of dt in de_analytical_2_1.mlx, to obtain (1/dt)fps animation. <br>
